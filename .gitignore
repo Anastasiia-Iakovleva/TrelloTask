@@ -5,3 +5,4 @@ packages/
 /TrelloSpecFlowTestProject/obj/Debug/DesignTimeResolveAssemblyReferences.cache
 /TrelloSpecFlowTestProject/bin/Debug/
 /TrelloSpecFlowTestProject/obj/
+*.user
