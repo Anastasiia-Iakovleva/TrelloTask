@@ -6,3 +6,4 @@ packages/
 /TrelloSpecFlowTestProject/bin/Debug/
 /TrelloSpecFlowTestProject/obj/
 *.user
+*.feature.cs
